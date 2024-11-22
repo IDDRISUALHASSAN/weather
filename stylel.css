@@ -2,8 +2,8 @@ body{
     background-color: skyblue;
     position: relative;
     margin: 0;
-    padding: 0;
-    bottom: 0;
+    padding: 5px;
+    
     
     
 }
@@ -127,11 +127,13 @@ body{
     animation-duration: 1.2s; 
 }
 
-.footer{
+footer{
+    padding: 20px;
     color: chocolate;
     text-align: justify;
     height: 100px;
     background-color: rgb(199, 199, 214);
+    bottom: 0;
 
 }
 
